@@ -46,12 +46,3 @@ café === café // => false. hee hee
 
 /* 2.6 */
 // semi-colons are optional. But we can always pretend
-
-
-
-
-/* 2.6 */
-
-
-
-
